@@ -19,7 +19,7 @@
     "@angular/platform-browser": "~10.1.3",
     "@angular/platform-browser-dynamic": "~10.1.3",
     "@angular/router": "~10.1.3",
-    "canvas": "latest",
+    "canvas": "",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"
@@ -42,7 +42,6 @@
     "protractor": "~7.0.0",
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
-    "puppeteer": "^19.7.5",
     "typescript": "~4.0.2"
   }
 }
